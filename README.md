@@ -1,2 +1,2 @@
-# CalculadoraTeste.Java
-Testes Unitários de uma calculadora
+Testes Unitários Calculadora
+🔎Este repositorio tem como objetivo demonstrar os teste unitarios dos métodos de uma calculadora
